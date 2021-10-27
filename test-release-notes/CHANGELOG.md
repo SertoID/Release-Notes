@@ -1,6 +1,6 @@
-## [2.0.2](https://github.com/SertoID/Test-Release-flow/compare/v2.0.1...v2.0.2) (2021-10-27)
+## [2.0.4](https://github.com/SertoID/Test-Release-flow/compare/v2.0.3...v2.0.4) (2021-10-27)
 
 
 ### Bug Fixes
 
-* Plain ([9f314a1](https://github.com/SertoID/Test-Release-flow/commit/9f314a1424832d2919c54bad951a55dd1c3da912))
+* Add git plugin ([70f256e](https://github.com/SertoID/Test-Release-flow/commit/70f256e29032544c7d89a4bd7d1c58ebdea4fd0e))
