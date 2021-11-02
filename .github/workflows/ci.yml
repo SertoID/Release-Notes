@@ -1,8 +1,7 @@
 on: 
   push:
     branches:
-      - ese/tagnoteversions
-
+      - production
 jobs:
   release-on-push:
     runs-on: ubuntu-latest
