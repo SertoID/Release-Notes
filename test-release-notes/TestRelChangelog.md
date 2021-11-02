@@ -1,5 +1,12 @@
 Test Release Flow Notes
 
+# [2.9.0](https://github.com/SertoID/Test-Release-flow/compare/v2.8.3...v2.9.0) (2021-11-02)
+
+
+### Features
+
+* Slack better work ([7d71152](https://github.com/SertoID/Test-Release-flow/commit/7d711529bdbaf63cfaca94d6e86158312b91f012))
+
 ## [2.8.3](https://github.com/SertoID/Test-Release-flow/compare/v2.8.2...v2.8.3) (2021-11-02)
 
 
