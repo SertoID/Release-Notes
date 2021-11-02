@@ -1,3 +1,13 @@
+# Test Release Flow Notes
+
+# [2.10.0](https://github.com/SertoID/Test-Release-flow/compare/v2.9.0...v2.10.0) (2021-11-02)
+
+
+### Features
+
+* Change log title ([af8e0d0](https://github.com/SertoID/Test-Release-flow/commit/af8e0d0cc6e6a481e34fbb5d86e6363cee9b5535))
+* Change log title ([16cb05a](https://github.com/SertoID/Test-Release-flow/commit/16cb05aa17e6384c00f82626899651268240f744))
+
 Test Release Flow Notes
 
 # [2.9.0](https://github.com/SertoID/Test-Release-flow/compare/v2.8.3...v2.9.0) (2021-11-02)
