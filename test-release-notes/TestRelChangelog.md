@@ -1,5 +1,26 @@
 # Test Release Flow Notes
 
+# [2.8.0](https://github.com/SertoID/Test-Release-flow/compare/v2.7.3...v2.8.0) (2021-11-02)
+
+
+### Features
+
+* update ci ([b8250cb](https://github.com/SertoID/Test-Release-flow/commit/b8250cbe255389dc0fe61ee441b4f09b01027542))
+
+## [2.7.3](https://github.com/SertoID/Test-Release-flow/compare/v2.7.2...v2.7.3) (2021-11-02)
+
+
+### Bug Fixes
+
+* Create New branch for every move ([1e2ea2d](https://github.com/SertoID/Test-Release-flow/commit/1e2ea2d495b8ff22eb0d5ebf35cf923bab7d369f))
+
+## [2.7.2](https://github.com/SertoID/Test-Release-flow/compare/v2.7.1...v2.7.2) (2021-11-02)
+
+
+### Bug Fixes
+
+* Disable commit message ([41d7c3f](https://github.com/SertoID/Test-Release-flow/commit/41d7c3f7f5c44b160e9a9cdf61039632f50b624d))
+
 ## [2.7.1](https://github.com/SertoID/Test-Release-flow/compare/v2.7.0...v2.7.1) (2021-11-02)
 
 
