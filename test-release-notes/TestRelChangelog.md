@@ -1,3 +1,12 @@
+Test Release Flow Notes
+
+## [2.8.2](https://github.com/SertoID/Test-Release-flow/compare/v2.8.1...v2.8.2) (2021-11-02)
+
+
+### Bug Fixes
+
+* Troubleshoot Slack ([ee56319](https://github.com/SertoID/Test-Release-flow/commit/ee5631994cc7a15a47ba851bc5b03131cd0b7353))
+
 # Test Release Flow Notes
 
 ## [2.8.1](https://github.com/SertoID/Test-Release-flow/compare/v2.8.0...v2.8.1) (2021-11-02)
