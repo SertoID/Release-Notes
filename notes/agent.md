@@ -1,7 +1,7 @@
 # Serto Agent
 
 # [1.0.0] 
-## November 3, 2021
+## October 20, 2021
 
 ### What's New
  
